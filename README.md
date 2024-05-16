@@ -1,7 +1,4 @@
 # FastApi-App
-A setup to implement FastAPI using Langchain, WatsonX, LLM 
-
-
 This project sets up a FastAPI application that acts as an interface for interacting with a language model, specifically the Watson X language model. 
 
 Here's a description of the project:
